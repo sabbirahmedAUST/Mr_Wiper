@@ -1,6 +1,6 @@
 # Mr Wiper
 
-Mr Wiper is an [Arduino Uno][au] based robot . As the name suggested, it's floor cleaner machine, that can be used to clean the floor very easily and helps to less the hard labour to a great extent.
+Mr Wiper is an [Arduino Uno][au] based robot . As the name suggested, it's floor cleaner machine, that can be used to clean the floor very easily and help to less the hard labour to a great extent. For controlling the bot [bluetooth controller][bc] has been used.
 
 <p align="center">
 <img align="centre" alt="wiper" width="400px" src="image/gif.gif" />
@@ -53,7 +53,7 @@ Proteus [Circuit Diagram][cd] & [Arduino Uno][au] code is added in code section.
 [cd]: https://github.com/sabbirahmedAUST/Mr_Wiper/MrWiper.pdsprj
 [prot]: https://github.com/sabbirahmedAUST/Mr_Wiper/tree/main/image/proteus.jpg
 [ai]: https://github.com/sabbirahmedAUST/Mr_Wiper/tree/main/image/arduino.png
-
+[bc]: https://play.google.com/store/apps/details?id=nextprototypes.BTSerialController&hl=en
 
 
 
