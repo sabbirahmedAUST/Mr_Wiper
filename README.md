@@ -12,8 +12,8 @@ Mr Wiper is an Arduino Uno based robot . As the name suggested, it's floor clean
 ### Necessary Tools
 
 <p align="center">
-  <img src="image/1.png" width="200" />
-  <img src="image/2.png" width="200" /> 
+  <img src="image/2.png" width="200" />
+  <img src="image/1.png" width="200" /> 
   <img src="image/3.png" width="200" />
 	</p>
  <p align="center">
@@ -25,4 +25,13 @@ Mr Wiper is an Arduino Uno based robot . As the name suggested, it's floor clean
   <img src="image/7.png" width="200" />
   <img src="image/8.png" width="200" /> 
 </p>
+
+---
+
+### Connection Diagram
+Proteus [Circuit Diagram] & [Arduino Uno] code is added in code section. Here is the rough connection and output is shown below: 
+
+
+
+
 
