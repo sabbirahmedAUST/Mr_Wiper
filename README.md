@@ -42,16 +42,17 @@ Proteus [Circuit Diagram][cd] & [Arduino Uno][au] code is added in code section.
   </tr>
 </table>
 
---
+---
+
 ### Software & Tools Used
-[<img align="left" alt="GitHub" width="26px" src="" />]
-[<img align="left" alt="Terminal" width="26px" src="" />]
+[<img align="left" alt="GitHub" width="26px" src="/image/arduino.png" />][ai]
+[<img align="left" alt="Terminal" width="26px" src="/image/proteus.jpg" />][prot]
 
 
 [au]: https://github.com/sabbirahmedAUST/Mr_Wiper/23.ino
 [cd]: https://github.com/sabbirahmedAUST/Mr_Wiper/MrWiper.pdsprj
-[prot]: 
-[ai]: 
+[prot]: https://github.com/sabbirahmedAUST/Mr_Wiper/tree/main/image/proteus.jpg
+[ai]: https://github.com/sabbirahmedAUST/Mr_Wiper/tree/main/image/arduino.png
 
 
 
